@@ -57,7 +57,7 @@ blog_button:
 # Navigation buttons in the front page.s
 nav:
     - {title: 世界杯文章, description: archive, url: '/archive'}   
-    - {title:世界杯赛场, description: tags, url: '/tags'}      
+    - {title: 世界杯赛场, description: tags, url: '/tags'}      
     - {title: 我与世界杯, description: about, url: '/about'}      
     
 
